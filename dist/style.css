@@ -1,0 +1,22 @@
+body {
+  background-image: url("https://preview.redd.it/5f0hynnecfm61.png?width=640&crop=smart&auto=webp&s=6832ec7ac824f937a9305a82c104c1a8709fdd9d");
+  background-repeat:no-repeat;
+  text-align: center;
+  background-size: 940px;
+  background-position: top;
+  padding-bottom:25px;
+  color:#fff;
+  padding-top:10em;
+}
+
+* { color:#fff; text-decoration: none;
+}
+
+footer
+{font-size: 10px;
+  font-family: "Segoe UI";
+}
+typewrite{
+  position: center;
+  object-position: bottom;
+}
